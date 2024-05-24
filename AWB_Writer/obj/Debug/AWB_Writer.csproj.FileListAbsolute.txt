@@ -1,0 +1,13 @@
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\bin\Debug\AWB_Writer.exe.config
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\bin\Debug\AWB_Writer.exe
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\bin\Debug\AWB_Writer.pdb
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\bin\Debug\OpenTK.dll
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\bin\Debug\Syroot.BinaryData.dll
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.csproj.AssemblyReference.cache
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.frmMain.resources
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.Properties.Resources.resources
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.csproj.GenerateResource.cache
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.csproj.CoreCompileInputs.cache
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.csproj.CopyComplete
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.exe
+C:\Users\curti\source\repos\AWB_Writer\AWB_Writer\obj\Debug\AWB_Writer.pdb
